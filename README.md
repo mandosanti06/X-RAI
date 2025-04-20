@@ -3,7 +3,7 @@
 ## Overview  
 X-RAI is a deep learning project that automatically detects bone fractures from musculoskeletal X-ray images using the MURA v1.1 dataset. The project employs a lightweight convolutional neural network (MobileNetV2) to classify each image as "Fractured" or "Not Fractured."
 
-Google colabnis located at:[ Google Colab](https://colab.research.google.com/drive/1YwzeA-ePgQhsQlSw-GwWB0M2pPhOz_2n?usp=sharing)
+Google colabnis located at:[ **Google Colab**](https://colab.research.google.com/drive/1YwzeA-ePgQhsQlSw-GwWB0M2pPhOz_2n?usp=sharing)
 
 ---
 
